@@ -1,0 +1,7 @@
+.idea/*
+diag/*
+*/*.pyc
+lindley.csv
+*.pyc
+*__pycache__*
+*.pdf
